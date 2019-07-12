@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+  background: black;
+  font-family: Roboto;
+}
+
+.myont {
+  background: black;
+}
+
+.myontt {
+  background: red;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(../image/papel.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+#face {
+  margin-top: 200px;
+  position: absolute;
+  margin-top: 20%;
+}
+
+#logo {
+  width: 70px;
+}
+
+#astrogo {
+  padding-top: 1%;
+  width: 70%;
+}
+
+/*-----------------news----*/
+#new1 {
+  padding-top: 2%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.textoo {
+  text-align: justify;
+}
+
+#new2 {
+  background-color: green;
+}
+
+#new3 {
+  background-color: blue;
+}
+
+#newpic {
+  width: 80%;
+  padding-left: 30%;
+}
+
+ter-spacing: 1.2;
+}
+
+#foot {
+  top: 10%;
+  background-color: white;
+}
+
+#insta {
+  margin-top: 10%;
+  color: yellow;
+}
+
+footer {
+  margin-top: 5%;
+  background-color: black;
+}
+
+.socials-icons {
+  text-align: center;
+  float: left;
+  width: 100%;
+}
+
+.ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+#redem {
+  margin-top: 3%;
+}
+
+i {
+  color: white;
+}
+
+i:hover {
+  color: rgb(218, 165, 32);
+}
+.card{
+  margin-top: 40px;
+  margin-left: 20px;
+  background-color: black;
+  opacity: 0.8;
+  background-size: cover;
+}
+.card-img-top{
+
+background-size: cover;
+}
+.btn {
+  color:white;
+  background-color: purple;
+}
+#botao{
+  color:white;
+  background-color: purple;
+}
+#botao:hover{
+  color:rgba(10, 2, 227, 1);
+  background-color:white;
+}

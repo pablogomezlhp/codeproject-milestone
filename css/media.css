@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+  background: black;
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+  background-image: url(../image/papel.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  overflow-x: hidden;
+}
+
+#face {
+  margin-top: 200px;
+  position: absolute;
+  margin-top: 20%;
+}
+
+
+#logo {
+  width: 70px;
+}
+
+#astrogo {
+  padding-top: 1%;
+  width: 70%;
+}
+
+#astrooa {
+  width: 50%;
+}
+
+#banner {
+  margin-top: 30%;
+  background: black;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+#botao {
+  color: white;
+  background-color: purple;
+}
+
+/*-----------------news----*/
+#new1 {
+  padding-top: 2%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.textoo {
+  text-align: justify;
+}
+
+#new2 {
+  background-color: green;
+}
+
+#new3 {
+  background-color: blue;
+}
+
+#newpic {
+  width: 80%;
+  padding-left: 30%;
+}
+
+ter-spacing: 1.2;
+}
+
+/*-----------------media----*/
+#piic-1 {
+  background: black;
+  background-size: cover;
+}
+
+footer {
+  margin-top: 5%;
+  background-color: black;
+}
+
+#redem {
+  margin-top: 3%;
+}
+
+i {
+  color: white;
+}
+
+i:hover {
+  color: rgb(218, 165, 32);
+}
+#fundoos{
+  background-color: red;
+}
