@@ -1,3 +1,5 @@
+-----> https://pablogomezlhp.github.io/codeproject-milestone/
+
 # Travis Scott Webpage
 
 Site was created with the intention of being able to show to the fans a little of what happens with the singer pages with videos, news and ticket sales was implemented in order to facilitate access. also i added the Spotify Widgets with the intention to show the new singer's album.
